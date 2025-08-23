@@ -30,7 +30,7 @@ It combines **Popularity-based**, **Content-based**, and **Collaborative Filteri
    cd hybrid-recommender
 2. Install dependencies:
    ```bash
-   pip install -r Requirements.txt
+   pip install -r requirements.txt
 3. Run Streamlit app:
    ```bash
    streamlit run streamlit_app.py
