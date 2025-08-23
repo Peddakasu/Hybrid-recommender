@@ -1,0 +1,58 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# -----------------------------
+# Virtual Environments
+# -----------------------------
+.env
+.venv
+venv/
+ENV/
+env/
+*.env
+
+# -----------------------------
+# Jupyter / Notebooks
+# -----------------------------
+.ipynb_checkpoints
+*.ipynb~
+*.ipynb_checkpoints/
+
+# -----------------------------
+# Data / Large Files
+# -----------------------------
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.pkl
+*.json
+*.xlsx
+*.xls
+
+# (Optional) Keep your main dataset if it's small enough (<50MB)
+# !Ecommerce_Delivery_Analytics_New.csv
+
+# -----------------------------
+# Streamlit Cache & Logs
+# -----------------------------
+.streamlit/
+**/.streamlit/
+logs/
+.cache/
+
+# -----------------------------
+# OS / Editor Specific
+# -----------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
