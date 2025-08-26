@@ -33,4 +33,7 @@ It combines **Popularity-based**, **Content-based**, and **Collaborative Filteri
    pip install -r requirements.txt
 3. Run Streamlit app:
    ```bash
-   streamlit run streamlit_app.py
+   streamlit run Ecom_app.py
+
+## streamlit deployed app link:
+https://hybrid-recommender-vwcxxhjutnz2zzp9ebgyxq.streamlit.app/
